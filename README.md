@@ -29,6 +29,18 @@ Clean separation of concerns with composables, Vue Router-based navigation, and 
 
 📸 Screenshots (optional) ->
 
+![Image](https://github.com/user-attachments/assets/1d4d8e9b-f1e9-4925-9ae7-5b4a809f10c2)
+![Image](https://github.com/user-attachments/assets/e5463c2d-80de-4c65-b1a1-3bebaadac8ed)
+![Image](https://github.com/user-attachments/assets/8c4507b4-5144-4ec2-adf2-b9924833f0b2)
+![Image](https://github.com/user-attachments/assets/a6e65820-6a0b-4376-8a82-edb45388b40f)
+![Image](https://github.com/user-attachments/assets/f68cc2d6-3493-489e-b38e-6492396d4715)
+![Image](https://github.com/user-attachments/assets/c0ba3487-572b-4098-8258-d6ea99788341)
+![Image](https://github.com/user-attachments/assets/57261b0a-9b41-4ce9-9207-9a68084aede7)
+![Image](https://github.com/user-attachments/assets/d1698c6d-a6e3-4fc3-b13b-2f81612e39c8)
+![Image](https://github.com/user-attachments/assets/62d6f369-e123-4c82-b455-76aec464b9bb)
+![Image](https://github.com/user-attachments/assets/7d74e320-5cf1-4665-9597-baaab0f66305)
+![Image](https://github.com/user-attachments/assets/f913c0b7-2104-4dc1-8913-6ae329a22f75)
+![Image](https://github.com/user-attachments/assets/16bfb35f-3fe2-4253-8414-1292e21bf409)
 
 
 
